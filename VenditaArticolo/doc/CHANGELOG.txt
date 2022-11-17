@@ -1,0 +1,11 @@
+# Registro delle modifiche
+Tutte le modifiche importanti a questo progetto saranno documentate in questo file.
+
+Il formato è basato su [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
+e questo progetto aderisce a [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+
+
+## [1.0] - 17-11-2022
+### Add
+  Aggiunte le classi Articolo, main, VenditaArticolo che permettono la vendita 
+  di uno o più articoli attraverso diversi metodi 
