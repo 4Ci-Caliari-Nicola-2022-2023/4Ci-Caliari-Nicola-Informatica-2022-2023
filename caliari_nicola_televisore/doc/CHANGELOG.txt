@@ -1,0 +1,38 @@
+# Changelog
+All notable changes to this project will be documented in this file.
+
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
+and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+
+## [1.0] - 2022-09-27
+### Added
+
+ho aggiunto parte di codice nella classe test.
+
+### Changed
+
+ho modificato le variabili nella classe test, permettendo all'utente di inserire i valori a piacimento. 
+
+
+## [1.1] - 2022-09-29
+### Added
+
+ho aggiunto nel deploy una cartella contenente la documentazione (doc), cioè il README e il CHANGELOG.
+
+### Changed
+
+ho modificato la cartella contenente i programmi, aggiungendola alla directory dove si trova la cartella doc.
+
+
+## [2.0] - 2022-10-03
+###Added
+
+ho aggiunto cartelle nel file system, contenente ognuna una parte di codice e la rispettiva classe test.
+
+###Changed
+
+
+
+###Removed
+
+ho rimosso il codice principale sia della classe test che della classe televisione, per dividerli in parti di codice minori, inserendo ognuno nella sua rispettiva cartella. 
